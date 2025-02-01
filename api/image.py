@@ -50,7 +50,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmu-6Ac41A1UpuuIeGY4ta2rOjNqts2TC8XA&s.jpg" # Link to the webpage to redirect to 
     },
 
